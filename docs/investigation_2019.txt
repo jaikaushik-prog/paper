@@ -1,0 +1,63 @@
+INVESTIGATION REPORT: 2019 ANOMALY
+==================================
+Loading C:\Users\DELL\Desktop\project_nifty_liquid\features_nifty500.parquet ...
+Training Model for 2019 prediction...
+
+2019 TRADE ANALYSIS
+-------------------
+Total Trades: 1229
+
+Regime Distribution in 2019 Trades:
+market_regime_val
+0    902
+1    327
+
+Top 20 Winners (2019):
+2019-02-15 SUZLON          Ret:  65.9%  Regime: 0
+2019-10-24 YESBANK         Ret:  44.8%  Regime: 1
+2019-08-30 RTNINDIA        Ret:  37.7%  Regime: 0
+2019-11-15 TEJASNET        Ret:  37.2%  Regime: 1
+2019-02-18 TEJASNET        Ret:  33.4%  Regime: 0
+2019-02-13 CGPOWER         Ret:  30.8%  Regime: 0
+2019-10-25 ZEEL            Ret:  30.1%  Regime: 1
+2019-02-05 JSL             Ret:  30.1%  Regime: 0
+2019-05-13 DCMSHRIRAM      Ret:  28.6%  Regime: 0
+2019-11-20 POONAWALLA      Ret:  28.0%  Regime: 1
+2019-02-14 SUZLON          Ret:  27.5%  Regime: 0
+2019-11-22 POONAWALLA      Ret:  27.2%  Regime: 1
+2019-11-21 POONAWALLA      Ret:  27.2%  Regime: 1
+2019-10-01 YESBANK         Ret:  26.8%  Regime: 1
+2019-11-22 DBREALTY        Ret:  26.7%  Regime: 1
+2019-08-07 SAMMAANCAP      Ret:  25.8%  Regime: 0
+2019-10-15 PEL             Ret:  24.5%  Regime: 0
+2019-11-22 SAMMAANCAP      Ret:  23.5%  Regime: 1
+2019-07-29 TRITURBINE      Ret:  23.3%  Regime: 0
+2019-02-15 WELCORP         Ret:  23.2%  Regime: 0
+
+Ticker Contribution (Sum of Returns):
+ticker
+GPIL          0.884189
+HSCL          0.873701
+SAMMAANCAP    0.833161
+TEJASNET      0.815971
+SUZLON        0.765329
+PEL           0.602532
+EMAMILTD      0.564156
+JSL           0.508976
+ATGL          0.498925
+J&KBANK       0.495368
+
+Monthly Performance 2019:
+month
+1     -2.606892
+2      3.195539
+3      6.313317
+4     -0.660119
+5      3.622856
+6      1.483834
+7     -3.384000
+8      6.168197
+9    -10.285510
+10     3.647859
+11     4.570846
+12     3.654657
